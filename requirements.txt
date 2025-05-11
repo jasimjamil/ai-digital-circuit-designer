@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+google-generativeai
+schemdraw
+networkx
+numpy
+pandas
+plotly
+pillow
